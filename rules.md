@@ -22,7 +22,7 @@ and missed deadlines.
 - Allocate the last 10-15 minutes of the daily mini-meetings solely for the purpose of any technical or non-technical                     difficulties/blockers faced by the team members with regards to completing their assigned tasks.
 - Create and maintain a shared social media chat group between the team members (for example: Slack). Dedicate a channel exclusively for   the blockers faced by team members.
 - Team members need not wait till the daily mini-meeting to convey the difficulties they are facing while completing tasks. They can       simply update the blocker chat channel with their issues and if any other team member happens to see that, then they may volunteer to   help their teammate.
-- All the unresolved blockers posted by team members will be discussed in the daily mini-meetings. Any team member with required           technical expertise is to guide and help in resolving the blockers. Otherwise a brain-storming sessions may follow where the team       collectively finds out ways to resolve the issue.
+- All the unresolved blockers posted by team members will be discussed in the daily mini-meetings. Any team member with required           technical expertise is to guide and help in resolving the blockers. Otherwise a brain-storming session may follow where the team         collectively finds out ways to resolve the issue.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
