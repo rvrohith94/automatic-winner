@@ -16,11 +16,13 @@ and missed deadlines.
 - Hold a team discussion and set an agreeable early deadline for the work to be completed.
 - Set individual deadlines for the tasks to be completed by each team member.
 - Decide upon a common communication time daily and then have a mini-meeting where each team member will convey the status of the progress   of the task assigned to them.
-- In case any team member anticipates that they will not be able to participate in the daily mini-meeting, then they will communicate the   same ahead of time to the rest of the team without fail. Team leader to follow-up further in case that doesn't happen.
+- In case any team member anticipates that they will not be able to participate in the daily mini-meeting, then they will communicate     the same ahead of time to the rest of the team without fail. Team leader to follow-up further in case that doesn't happen.
 
 ## How will we communicate difficulties with a task assigned to us
-
-
+- Allocate the last 10-15 minutes of the daily mini-meetings solely for the purpose of any technical or non-technical                     difficulties/blockers faced by the team members with regards to completing their assigned tasks.
+- Create and maintain a shared social media chat group between the team members (for example: Slack). Dedicate a channel exclusively for   the blockers faced by team members.
+- Team members need not wait till the daily mini-meeting to convey the difficulties they are facing while completing tasks. They can       simply update the blocker chat channel with their issues and if any other team member happens to see that, then they may volunteer to   help their teammate.
+- All the unresolved blockers posted by team member will be discussed in the daily mini-meetings.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
