@@ -9,14 +9,14 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
+- Read the problem statement, analyze the work to be done, and divide it into a number of sub-tasks.
+- Depending on the complexity of each sub-task to be completed, the team members will take turns accordingly and complete the tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
