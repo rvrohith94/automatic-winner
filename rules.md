@@ -13,8 +13,10 @@ and missed deadlines.
 - Depending on the complexity of each sub-task to be completed, the team members will discuss first and then take turns accordingly and complete the tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
-
+- Hold a team discussion and set an agreeable early deadline for the work to be completed.
+- Set individual deadlines for the tasks to be completed by each team member.
+- Decide upon a common communication time daily and then have a mini-meeting where each team member will convey the status of the progress   of the task assigned to them.
+- In case any team member anticipates that they will not be able to participate in the daily mini-meeting, then they will communicate the   same ahead of time to the rest of the team without fail. Team leader to follow-up further in case that doesn't happen.
 
 ## How will we communicate difficulties with a task assigned to us
 
