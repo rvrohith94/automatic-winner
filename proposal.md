@@ -1,33 +1,8 @@
-# X-Team 117 Project Proposal
-
-See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
+# X-Team 117 Project Proposal - Monthly Budget Tracker
 
 ## Goal
 
 Work as a team to implement the proposed project - *Monthly Budget Tracker*.
-
-Work as a team to create a project proposal for your X-team to complete together.
-The project does not have to be extremely difficult,
-but there must be work to do for each member of your team.
-You may reference figures using "See figure 1".  
-Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) for each figure.
-
-## Grading: To earn full credit, your team's proposal must include:
-
-* (md) documentation: [this file] describing purpose and use of your program
-
-* Description of a program that has:
-
-  ** a main Java program class in a file named Main.java
-  
-  ** a custom data structure designed and built by your team
-  
-  ** comprehensive testing of individual units
-  
- Caution: You are not being asked to implement this program, at least not yet. 
- We just want your group to make a proposal or pitch for your program.
- 
- Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
 
@@ -35,30 +10,44 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 - This application allows users to enter their preferred budget amount at the start of every month and then add the money spent on a day-to-day basis throughout the month (The total amount spent by the user so far will also be displayed - Refer figure1.png). At any point if the total amount spent during the course of the month exceeds the bugdet amount, an alert message would be displayed to warn the user about the same.
 
-## Questions to answer for Exercise #2
+## Q & A
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
-
-
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+1. Name: **Monthly Budget Tracker**
 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+2. Output: Output produced will be the amount spent by the user so far during the month (Will be a Double value - in Java terms).
 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+3. Input: Input entered by the user will be the budget amount to be set at the start of month and the daily expenses incurred (All these    values will be of Double data type). Example value : 250.83 (in USD).
 
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+4. User Interface: The user interface for this application will be a simple graphic user interface (GUI) consisting of a calendar along    with text boxes which support entry of numeric data. The dates in the calendar have an add button (+), upon clicking on which a new      panel containing data entry fields would pop up. There is an alert widget in the top right corner, that displays an alert message if    the amount spent by the user exceeds the set budget amount.
 
+   Please refer the attached file - **figure1.png**
+   
 
+5. Types List: The following are the proposed java classes to implement the back-end implementation of this application -
 
-Name each interface or class and briefly describe its function or purpose.
-
-
-## Edit and Submit this file and any figures referenced by this document.
-
+   - MonthlyBudgetTracker.java - Main driver class of this application that contains the  code to retrieve and write the values                                          displayed in the GUI to a file. Also contains the necessary logic to display the alert message
+                                 when the total amount spent crosses the set budget.
+   
+   - BudgetTrackerHashTableADT.java - An ADT java interface containing standard methods like 
+     * put(K key, V value)
+     * get(K key)
+     * remove(K key)
+     * size()
+     
+   - BudgetTrackerHashTable.java - A class that implements the BudgetTrackerHashTableADT interface and has the implementation of APIs 
+                                   to get the size of the hash table, to insert a new key-value pair into the hash table, to get the                                        value corresponding to a given key from the hash table, to remove a given key from the hash table.
+     
+     Note: The key-value pair for the BudgetTrackerHashTable in this application would be <Date, Double>
+    
+   - TestBudgetTrackerHashTable.java - Unit tests for the BudgetTrackerHashTable.java class.
+   
+   - MonthlyBudgetTrackerTests.java - Unit Tests that will test the APIs related to adding of the budget, amount spent values of the                                           Monthly Budget Tracker application.
+   
+   *NOTE: We didn't discuss how to implement the proposed GUI for this application, hence couldn't add the proposed files for the                 related front-end codebase.*
+   
