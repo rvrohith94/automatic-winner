@@ -29,8 +29,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+- Keeping track of one's monthly expenses is one of the most important ways to be financially responsible in life. So we would like to make the task a bit more easier with a simple yet intuitive application called *Monthly Budget Tracker*.
+
+- This application allows users to enter their preferred budget amount at the start of every month and then add the money spent on a day-to-day basis throughout the month (The total amount spent by the user so far will also be displayed - Refer figure1.png). At any point if the total amount spent during the course of the month exceeds the bugdet amount, an alert message would be displayed to warn the user about the same.
 
 ## Questions to answer for Exercise #2
 
