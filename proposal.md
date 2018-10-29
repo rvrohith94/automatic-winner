@@ -1,8 +1,10 @@
-# X-Team NN Project Proposal
+# X-Team 117 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
 ## Goal
+
+Work as a team to implement the proposed project - *Monthly Budget Tracker*.
 
 Work as a team to create a project proposal for your X-team to complete together.
 The project does not have to be extremely difficult,
