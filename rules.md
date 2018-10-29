@@ -30,6 +30,7 @@ and missed deadlines.
 - Onus lies on all  the team members to proactively complete their assigned work, and help their teammates in case any need arises.
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+- Team members to communicate regularly and diligently complete their assigned tasks.
+- 'There is no I in a team'. Everyone in the team is supposed to work collectively towards a common goal and put aside any differences,   mistrusts etc.
 
 
