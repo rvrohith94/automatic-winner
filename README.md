@@ -10,7 +10,7 @@
        * GitHub username 1: rvrohith94  name 1: Rohith Rentachintala Venkata
        * GitHub username 2: StellaKim99 name 2: Stella Kim
    * When did you complete this exercise? 
-       * We complete this exercise on Sunday, October, 29th, 2018.
+       * We complete this exercise on Sunday, October, 28th, 2018.
    * How long did it take your team to complete this exercise? 
        * It took 5 hours to complete this exericse.
 
