@@ -25,8 +25,9 @@ and missed deadlines.
 - All the unresolved blockers posted by team members will be discussed in the daily mini-meetings. Any team member with required           technical expertise is to guide and help in resolving the blockers. Otherwise a brain-storming session may follow where the team         collectively finds out ways to resolve the issue.
 
 ## How we will back up each other to ensure that deadlines are not missed
-
-
+- The team leader is to oversee the collective progress of the entire team as well as track the progress of the individual tasks which     are to be completed by the team members.
+- During daily mini-meetings, team leader is to take note of the progress of the individual tasks as reported by team members and         and ensure that all the tasks meet their deadline on time, so that the work assigned to the team will be completed as per               schedule.
+- Onus lies on all  the team members to proactively complete their assigned work, and help their teammates in case any need arises.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
